@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "Id": "500458637",
+      "Real": "usd,pln,uah,eur",
+      "Currency": [
+        {
+          "Crypto": "eth-ethereum"
+        }
+      ]
+    }
+  ]
+}
